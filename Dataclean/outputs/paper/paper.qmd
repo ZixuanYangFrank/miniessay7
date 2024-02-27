@@ -3,7 +3,7 @@ title: "Clean and prepare of data"
 subtitle: "How mistake affect the conclusion"
 author: 
   - Zixuan Yang
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/ZixuanYangFrank/miniessay7/tree/main/Dataclean"
 date: today
 date-format: long
 abstract: "Data cleaning and preparation are crucial steps in research, but they can inadvertently introduce systematic biases that affect the accuracy of subsequent analyses. This paper investigates the impact of such biases on data distribution and hypothesis testing through simulated scenarios. Using a simulated dataset with known errors, we demonstrate how these biases can lead to erroneous conclusions, highlighting the importance of vigilant data management practices in research. Understanding and addressing systematic biases are essential for ensuring the reliability and integrity of research findings."
